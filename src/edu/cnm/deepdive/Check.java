@@ -22,7 +22,7 @@ public class Check {
     int c = 0;
     b = Integer.toString(a);
     for (int i = 0; i < b.length(); i++) {
-      c += Integer.parseInt(b);
+      c += b.charAt(i) - 48;
     }
     return c;
 
