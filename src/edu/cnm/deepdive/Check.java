@@ -35,7 +35,7 @@ public class Check {
 
 
   }
-
+/**
   public static int reducedDigitSum(int input) {
 
     String stringVariable;
@@ -64,6 +64,8 @@ public class Check {
 
 
   }
+ */
+
 
 
 }
