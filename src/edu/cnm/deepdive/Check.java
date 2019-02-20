@@ -14,7 +14,6 @@ public class Check {
     System.out.println(digitSum(a));
     System.out.println(digitSum(a) / 9);
 
-
   }
 
 
